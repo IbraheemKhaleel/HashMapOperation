@@ -3,7 +3,7 @@ package com.bridgelabz.MyHashMapTest;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class  MyHashMapTest {
+public class MyHashMapTest {
 	@Test
 	public void givenASentence_WhenWordsAreAddedToList_ShouldReturnWordFrequency()
 	{
